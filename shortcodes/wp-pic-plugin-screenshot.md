@@ -1,5 +1,7 @@
 ---
-description: Display a plugin card with screenshots.
+title: "wp-pic-plugin-screenshot"
+sections: [Shortcodes]
+status: publish
 ---
 
 # wp-pic-plugin-screenshot

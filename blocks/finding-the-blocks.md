@@ -1,3 +1,9 @@
+---
+title: "Finding the Blocks"
+sections: [Blocks]
+status: publish
+---
+
 # Finding the Blocks
 
 WP Plugin Info Card comes with three blocks.

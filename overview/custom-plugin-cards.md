@@ -1,5 +1,7 @@
 ---
-description: Custom Plugin Cards allow you to use custom plugins with WP Plugin Info Card
+title: "Custom Plugin Cards"
+sections: [Overview]
+status: publish
 ---
 
 # Custom Plugin Cards

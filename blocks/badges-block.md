@@ -1,5 +1,7 @@
 ---
-description: Showcase your .org badges with this useful block
+title: "Badges Block"
+sections: [Blocks]
+status: publish
 ---
 
 # Badges Block

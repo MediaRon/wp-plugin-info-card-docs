@@ -1,5 +1,7 @@
 ---
-description: Show off a plugin card with screenshots.
+title: "Plugin Screenshots Info Card"
+sections: [Blocks]
+status: publish
 ---
 
 # Plugin Screenshots Info Card

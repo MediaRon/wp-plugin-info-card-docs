@@ -1,7 +1,7 @@
 ---
-description: WP Plugin Info Card comes with four layouts
-cover: ../.gitbook/assets/layout-blue.webp
-coverY: 0
+title: "Layouts"
+sections: [Overview]
+status: publish
 ---
 
 # Layouts

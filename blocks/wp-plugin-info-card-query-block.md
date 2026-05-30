@@ -1,5 +1,7 @@
 ---
-description: The query block allows you to display a group of plugins based on a search
+title: "WP Plugin Info Card Query Block"
+sections: [Blocks]
+status: publish
 ---
 
 # WP Plugin Info Card Query Block

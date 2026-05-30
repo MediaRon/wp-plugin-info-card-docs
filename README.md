@@ -1,5 +1,7 @@
 ---
-description: The easiest way to show off plugins or themes on your site.
+title: "Welcome to WP Plugin Info Card"
+sections: [Getting Started]
+status: publish
 ---
 
 # Welcome to WP Plugin Info Card

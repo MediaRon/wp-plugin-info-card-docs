@@ -1,5 +1,7 @@
 ---
-description: Installation is simple.
+title: "Installation"
+sections: [Getting Started]
+status: publish
 ---
 
 # Installation

@@ -1,7 +1,8 @@
 ---
-description: Show off a GitHub info card with shortcuts to your repository.
+title: "The GitHub Info Cards Block"
+sections: [Blocks]
+status: publish
 ---
-
 # The GitHub Info Cards Block
 
 <figure><img src="../.gitbook/assets/dlx-theme-light (1).jpg" alt=""><figcaption></figcaption></figure>

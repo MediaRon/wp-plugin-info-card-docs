@@ -1,5 +1,7 @@
 ---
-description: Show WordPress.org profile badges on your site.
+title: "wp-pic-badges"
+sections: [Shortcodes]
+status: publish
 ---
 
 # wp-pic-badges

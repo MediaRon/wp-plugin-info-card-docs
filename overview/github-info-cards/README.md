@@ -1,5 +1,7 @@
 ---
-description: Create GitHub Info Cards With Plugin Info Card
+title: "GitHub Info Cards"
+sections: [Overview]
+status: publish
 ---
 
 # GitHub Info Cards

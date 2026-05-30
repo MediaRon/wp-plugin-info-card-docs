@@ -1,5 +1,7 @@
 ---
-description: Find out how to show your plugins that are hosted with Easy Digital Downloads
+title: "Easy Digital Downloads Integration"
+sections: [Overview]
+status: publish
 ---
 
 # Easy Digital Downloads Integration

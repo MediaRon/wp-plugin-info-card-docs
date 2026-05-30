@@ -1,7 +1,7 @@
 ---
-description: WP Plugin Info Card comes with fourteen color schemes
-cover: ../.gitbook/assets/color-scheme-abstract.webp
-coverY: 0
+title: "Schemes"
+sections: [Overview]
+status: publish
 ---
 
 # Schemes

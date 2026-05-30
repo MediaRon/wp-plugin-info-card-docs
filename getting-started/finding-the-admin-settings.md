@@ -1,3 +1,9 @@
+---
+title: "Finding the Admin Settings"
+sections: [Getting Started]
+status: publish
+---
+
 # Finding the Admin Settings
 
 <figure><img src="../.gitbook/assets/dlxplugins-1709736578902-1x.webp" alt=""><figcaption><p>Admin Settings for the Plugin</p></figcaption></figure>

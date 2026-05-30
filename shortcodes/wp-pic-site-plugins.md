@@ -1,5 +1,7 @@
 ---
-description: Display a list of all of your site's plugins
+title: "wp-pic-site-plugins"
+sections: [Shortcodes]
+status: publish
 ---
 
 # wp-pic-site-plugins

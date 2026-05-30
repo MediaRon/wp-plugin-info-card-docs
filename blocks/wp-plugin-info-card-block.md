@@ -1,3 +1,9 @@
+---
+title: "WP Plugin Info Card Block"
+sections: [Blocks]
+status: publish
+---
+
 # WP Plugin Info Card Block
 
 The WP Plugin Info Card block is essentially a wrapper for the `wp-pic` shortcode.

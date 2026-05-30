@@ -1,3 +1,9 @@
+---
+title: "Enabling GitHub Info Cards"
+sections: [Overview]
+status: publish
+---
+
 # Enabling GitHub Info Cards
 
 By default, GitHub Info Cards are disabled. This is because they require a GitHub Personal Access Token to gather repository information.

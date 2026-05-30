@@ -1,5 +1,7 @@
 ---
-description: Use [wp-pic] to output a single plugin.
+title: "wp-pic"
+sections: [Shortcodes]
+status: publish
 ---
 
 # wp-pic

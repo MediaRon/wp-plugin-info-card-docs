@@ -1,5 +1,7 @@
 ---
-description: Use wp-pic-query to output a set of plugins based on a query
+title: "wp-pic-query"
+sections: [Shortcodes]
+status: publish
 ---
 
 # wp-pic-query

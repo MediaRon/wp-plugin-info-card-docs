@@ -1,5 +1,7 @@
 ---
-description: Display your active plugins in a grid
+title: "Site Plugins Card Grid"
+sections: [Blocks]
+status: publish
 ---
 
 # Site Plugins Card Grid

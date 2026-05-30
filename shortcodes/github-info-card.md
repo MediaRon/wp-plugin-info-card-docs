@@ -1,5 +1,7 @@
 ---
-description: Display a card from GitHub in a large or card format.
+title: "github-info-card"
+sections: [Shortcodes]
+status: publish
 ---
 
 # github-info-card
