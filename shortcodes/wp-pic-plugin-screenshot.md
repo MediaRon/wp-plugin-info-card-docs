@@ -1,10 +1,11 @@
 ---
+slug: wp-pic-plugin-screenshot
 title: "wp-pic-plugin-screenshot"
-sections: [Shortcodes]
+products: [wp-plugin-info-card]
+sections: ["shortcodes"]
+tags: []
 status: publish
 ---
-
-# wp-pic-plugin-screenshot
 
 You can use the plugin screenshots shortcode to display a plugin card with screenshots anywhere shortcodes are supported.
 
@@ -16,7 +17,7 @@ Here is an example of the shortcode in use, using default settings.
 
 The following are the parameters for the shortcode:
 
-### unique\_id
+### unique_id
 
 The Unique ID surrounding the card's HTML structure. This is randomized if omitted.
 
@@ -24,147 +25,144 @@ The Unique ID surrounding the card's HTML structure. This is randomized if omitt
 
 The plugin slug for the WordPress.org asset.
 
-### icon\_style
+### icon_style
 
 Can be:
 
-* **none** - No icon style
-* **border** - Icon with a border
-* **bw** - Black & White icon
+- **none** - No icon style
+- **border** - Icon with a border
+- **bw** - Black & White icon
 
-### enable\_rounded\_icon
+### enable_rounded_icon
 
 Determine if you would like a rounded icon or not for the plugin icon.
 
 Can be:
 
-* **true** - Rounded icon
-* **false** - Square icon
+- **true** - Rounded icon
+- **false** - Square icon
 
-### color\_theme
+### color_theme
 
 Choose from several built-in color themes.
 
 Can be:
 
-* default
-* blossom
-* crimson
-* velvet
-* dark
-* light
-* feathers
-* caramel
+- default
+- blossom
+- crimson
+- velvet
+- dark
+- light
+- feathers
+- caramel
 
-### custom\_colors
+### custom_colors
 
 Set to **true** to override the built-in color themes and provide your own custom colors.
 
-### plugin\_title
+### plugin_title
 
 Override the plugin's title with something more custom or shorter than the original title.
 
-### enable\_context\_menu
+### enable_context_menu
 
 Enable or disable the context menu that shows extra information about the plugin.
 
 Can be:
 
-* true
-* false
+- true
+- false
 
-### enable\_screenshots
+### enable_screenshots
 
 Enable or disable the screenshots that display with the plugin.
 
 Can be:
 
-* true
-* false
+- true
+- false
 
 ### align
 
 Align the output according to the theme. Can be:
 
-* center
-* wide
-* full
+- center
+- wide
+- full
 
-### color\_background
+### color_background
 
 Hex code for the background of the plugin container.
 
-### color\_text
+### color_text
 
 Hex code for the main text color.
 
-### color\_border
+### color_border
 
 The hex code for the border color of the plugin container.
 
-### color\_menu\_border
+### color_menu_border
 
 The hex code for the border of the contextual menu.
 
-### color\_menu
+### color_menu
 
 The hex code for the contextual menu color.
 
-### color\_menu\_hover
+### color_menu_hover
 
 The hex code for the contextual menu color on hover.
 
-### color\_menu\_text
+### color_menu_text
 
 The hex code for the contextual menu text color.
 
-### color\_menu\_text\_hover
+### color_menu_text_hover
 
 The hex code for the contextual menu text color on hover.
 
-### color\_screenshots\_background
+### color_screenshots_background
 
 The hex code for the background of the screenshots section.
 
-### color\_screenshots\_border
+### color_screenshots_border
 
 The hex code for the border of the screenshots section.
 
-### color\_screenshots\_arrow\_background
+### color_screenshots_arrow_background
 
 The hex code for the screenshot arrows background color.
 
-### color\_screenshots\_arrow\_background\_hover
+### color_screenshots_arrow_background_hover
 
 The hex code for the screenshots arrows background color on hover.
 
-### color\_screenshots\_arrow
+### color_screenshots_arrow
 
 The hex code for the arrow color.
 
-### color\_screenshots\_arrow\_hover
+### color_screenshots_arrow_hover
 
 The hex code for the arrow color on hover.
 
-### color\_star
+### color_star
 
 The hex code for the star color when showing ratings.
 
-### color\_meta\_background
+### color_meta_background
 
 The hex code background color for the meta section.
 
-### color\_meta\_text
+### color_meta_text
 
 The hex code for the text color of the meta sectioin.
 
-### skip\_animated\_gifs
+### skip_animated_gifs
 
 Disable animated gifs from showing in the screenshots. This can help speed up loading time.
 
-{% code overflow="wrap" %}
 ```
 [wp-pic-plugin-screenshots slug="highlight-and-share" skip_animated_gifs="true"]
 ```
-{% endcode %}
-

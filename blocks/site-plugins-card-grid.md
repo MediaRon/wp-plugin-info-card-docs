@@ -1,27 +1,32 @@
 ---
+slug: site-plugins-card-grid
 title: "Site Plugins Card Grid"
-sections: [Blocks]
+products: [wp-plugin-info-card]
+sections: ["blocks"]
+tags: []
 status: publish
 ---
 
-# Site Plugins Card Grid
-
 The Site Plugins Card Grid block will allow you to display all of your active plugins.
 
-{% hint style="info" %}
-The block can only output plugins listed on the WordPress Plugin Directory.
-{% endhint %}
+<!-- wp:mediaron/alerts-dlx-chakra {"alertType":"warning","alertTitle":"The block can only output plugins listed on the WordPress Plugin Directory. ","descriptionEnabled":false,"icon":"\u003csvg xmlns=\u0022http://www.w3.org/2000/svg\u0022 height=\u002224\u0022 width=\u002224\u0022 viewBox=\u00220 0 24 24\u0022\u003e\u003cpath d=\u0022M23.119,20,13.772,2.15h0a2,2,0,0,0-3.543,0L.881,20a2,2,0,0,0,1.772,2.928H21.347A2,2,0,0,0,23.119,20ZM11,8.423a1,1,0,0,1,2,0v6a1,1,0,1,1-2,0Zm1.05,11.51h-.028a1.528,1.528,0,0,1-1.522-1.47,1.476,1.476,0,0,1,1.448-1.53h.028A1.527,1.527,0,0,1,13.5,18.4,1.475,1.475,0,0,1,12.05,19.933Z\u0022\u003e\u003c/path\u003e\u003c/svg\u003e","uniqueId":"alerts-dlx-7bb6b154","className":"is-style-warning"} -->
+<!-- wp:paragraph {"placeholder":""} -->
+<p></p>
+<!-- /wp:paragraph -->
+<!-- /wp:mediaron/alerts-dlx-chakra -->
 
-<figure><img src="../.gitbook/assets/dlxplugins-1674139795917-1x.webp" alt=""><figcaption><p>The First Step is to Load the Plugins</p></figcaption></figure>
+<!-- wp:dlxplugins/photo-block {"uniqueId":"photo-block-1e465631","globalStyle":"dlxkb-image","imageData":{"id":42402,"url":"https://docs.dlxplugins.com/wp-content/uploads/2026/05/dlxplugins-1674139795917-1x-1024x577.webp","alt":"Site Plugins Card Grid","full":"https://docs.dlxplugins.com/wp-content/uploads/2026/05/dlxplugins-1674139795917-1x.webp","width":1024,"height":577,"title":"","caption":"","attachment_link":"https://docs.dlxplugins.com/product/wp-plugin-info-card/site-plugins-card-grid/dlxplugins-1674139795917-1x/","file_size":"20.2 KB","dimensions":{"width":1024,"height":577},"edit_nonce":"520c1350ec","crop_nonce":"7544911973","can_edit":true},"photoDropShadow":{"color":"#3F3F37","opacity":0.85,"blur":10,"spread":2,"horizontal":2,"vertical":2,"inset":false,"enabled":true},"containerWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"","unit":""}},"containerMaxWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"800","unit":"px"}},"photoMode":"photo","mediaLinkType":"image","hasCaption":true,"lightboxEnabled":true} -->
+<!-- wp:dlxplugins/photo-caption-block {"globalStyle":"dlxkb-image","uniqueId":"photo-block-1e465631","captionManual":"Site Plugins Card Grid","captionTypography":{"mobile":{"fontFamily":"","fontFamilySlug":"","fontSize":"","fontSizeUnit":"px","fontWeight":"","lineHeight":"","lineHeightUnit":"em","textTransform":"","letterSpacing":"","letterSpacingUnit":"px","fontFallback":"","fontType":"web"},"tablet":{"fontFamily":"","fontFamilySlug":"","fontSize":"","fontSizeUnit":"px","fontWeight":"","lineHeight":"","lineHeightUnit":"em","textTransform":"","letterSpacing":"","letterSpacingUnit":"px","fontFallback":"","fontType":"web"},"desktop":{"fontFamily":"Verdana, sans-serif","fontFamilySlug":"verdana","fontSize":"18","fontSizeUnit":"px","fontWeight":"normal","lineHeight":"1.2","lineHeightUnit":"em","textTransform":"none","letterSpacing":"0","letterSpacingUnit":"px","fontType":"web","fontFallback":"sans-serif"}},"captionMarginSize":{"mobile":{"top":"","right":"","bottom":"","left":"","topUnit":null,"rightUnit":null,"bottomUnit":null,"leftUnit":null,"unitSync":true},"tablet":{"top":"","right":"","bottom":"","left":"","topUnit":null,"rightUnit":null,"bottomUnit":null,"leftUnit":null,"unitSync":true},"desktop":{"top":"8","right":"0","bottom":"0","left":"0","topUnit":"px","rightUnit":"px","bottomUnit":"px","leftUnit":"px","unitSync":false}},"containerWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"","unit":""}}} /-->
+<!-- /wp:dlxplugins/photo-block -->
 
 When you first insert the block, you'll have to load the plugins. Since these plugins are pinging the WordPress Plugin's API, it may take a minute to gather all of the information.
-
-<div><figure><img src="../.gitbook/assets/dlxplugins-1674139824036-1x.webp" alt=""><figcaption><p>Select a Scheme</p></figcaption></figure> <figure><img src="../.gitbook/assets/dlxplugins-1674139843519-1x.webp" alt=""><figcaption><p>Select a Layout</p></figcaption></figure></div>
 
 Once the plugins are loaded, you can change the scheme and layout used.
 
 You can also use the sidebar options to configure even further.
 
-<figure><img src="../.gitbook/assets/dlxplugins-1674139865174-1x.webp" alt=""><figcaption><p>Set Column Gap/Row Gap in the Sidebar Options</p></figcaption></figure>
+<!-- wp:dlxplugins/photo-block {"uniqueId":"photo-block-73c7e163","globalStyle":"dlxkb-image","imageData":{"id":42405,"url":"https://docs.dlxplugins.com/wp-content/uploads/2026/05/dlxplugins-1674139865174-1x-1024x887.webp","alt":"Plugin Sidebar Options for Layouts","full":"https://docs.dlxplugins.com/wp-content/uploads/2026/05/dlxplugins-1674139865174-1x.webp","width":1024,"height":887,"title":"","caption":"","attachment_link":"https://docs.dlxplugins.com/product/wp-plugin-info-card/site-plugins-card-grid/dlxplugins-1674139865174-1x/","file_size":"22.5 KB","dimensions":{"width":1024,"height":887},"edit_nonce":"a07b7120df","crop_nonce":"fe0db9b3fb","can_edit":true},"photoDropShadow":{"color":"#3F3F37","opacity":0.85,"blur":10,"spread":2,"horizontal":2,"vertical":2,"inset":false,"enabled":true},"containerWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"","unit":""}},"containerMaxWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"800","unit":"px"}},"photoMode":"photo","mediaLinkType":"image","hasCaption":true,"lightboxEnabled":true} -->
+<!-- wp:dlxplugins/photo-caption-block {"globalStyle":"dlxkb-image","uniqueId":"photo-block-73c7e163","captionManual":"Plugin Sidebar Options for Layouts","captionTypography":{"mobile":{"fontFamily":"","fontFamilySlug":"","fontSize":"","fontSizeUnit":"px","fontWeight":"","lineHeight":"","lineHeightUnit":"em","textTransform":"","letterSpacing":"","letterSpacingUnit":"px","fontFallback":"","fontType":"web"},"tablet":{"fontFamily":"","fontFamilySlug":"","fontSize":"","fontSizeUnit":"px","fontWeight":"","lineHeight":"","lineHeightUnit":"em","textTransform":"","letterSpacing":"","letterSpacingUnit":"px","fontFallback":"","fontType":"web"},"desktop":{"fontFamily":"Verdana, sans-serif","fontFamilySlug":"verdana","fontSize":"18","fontSizeUnit":"px","fontWeight":"normal","lineHeight":"1.2","lineHeightUnit":"em","textTransform":"none","letterSpacing":"0","letterSpacingUnit":"px","fontType":"web","fontFallback":"sans-serif"}},"captionMarginSize":{"mobile":{"top":"","right":"","bottom":"","left":"","topUnit":null,"rightUnit":null,"bottomUnit":null,"leftUnit":null,"unitSync":true},"tablet":{"top":"","right":"","bottom":"","left":"","topUnit":null,"rightUnit":null,"bottomUnit":null,"leftUnit":null,"unitSync":true},"desktop":{"top":"8","right":"0","bottom":"0","left":"0","topUnit":"px","rightUnit":"px","bottomUnit":"px","leftUnit":"px","unitSync":false}},"containerWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"","unit":""}}} /-->
+<!-- /wp:dlxplugins/photo-block -->
 
 You can adjust the columns from 1-3 columns and also set a row and column gap for the grid.

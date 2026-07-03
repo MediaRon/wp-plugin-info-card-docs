@@ -1,39 +1,34 @@
 ---
+slug: enabling-github-info-cards
 title: "Enabling GitHub Info Cards"
-sections: [Overview]
+products: [wp-plugin-info-card]
+sections: ["overview"]
+tags: []
 status: publish
 ---
-
-# Enabling GitHub Info Cards
 
 By default, GitHub Info Cards are disabled. This is because they require a GitHub Personal Access Token to gather repository information.
 
 ### Navigate to the Admin Settings and Choose GitHub Info Cards
 
-<figure><img src="../../.gitbook/assets/dlx-admin-github-info-cards-intro-screen.jpg" alt=""><figcaption></figcaption></figure>
+<!-- wp:dlxplugins/photo-block {"uniqueId":"photo-block-0654cd23","globalStyle":"dlxkb-image","imageData":{"id":42469,"url":"https://docs.dlxplugins.com/wp-content/uploads/2026/05/dlx-admin-github-info-cards-intro-screen-1024x576.jpg","alt":"","full":"https://docs.dlxplugins.com/wp-content/uploads/2026/05/dlx-admin-github-info-cards-intro-screen.jpg","width":1024,"height":576,"title":"Screenshot","caption":"","attachment_link":"https://docs.dlxplugins.com/product/wp-plugin-info-card/enabling-github-info-cards/screenshot-38/","file_size":"43.4 KB","dimensions":{"width":1024,"height":576},"edit_nonce":"b619de3843","crop_nonce":"4c64a240d2","can_edit":true},"photoDropShadow":{"color":"#3F3F37","opacity":0.85,"blur":10,"spread":2,"horizontal":2,"vertical":2,"inset":false,"enabled":true},"containerWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"","unit":""}},"containerMaxWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"800","unit":"px"}},"photoMode":"photo","mediaLinkType":"image","hasCaption":true,"lightboxEnabled":true} -->
+<!-- wp:dlxplugins/photo-caption-block {"globalStyle":"dlxkb-image","uniqueId":"photo-block-0654cd23","captionManual":"GitHub Info Cards Admin Setting Options","captionTypography":{"mobile":{"fontFamily":"","fontFamilySlug":"","fontSize":"","fontSizeUnit":"px","fontWeight":"","lineHeight":"","lineHeightUnit":"em","textTransform":"","letterSpacing":"","letterSpacingUnit":"px","fontFallback":"","fontType":"web"},"tablet":{"fontFamily":"","fontFamilySlug":"","fontSize":"","fontSizeUnit":"px","fontWeight":"","lineHeight":"","lineHeightUnit":"em","textTransform":"","letterSpacing":"","letterSpacingUnit":"px","fontFallback":"","fontType":"web"},"desktop":{"fontFamily":"Verdana, sans-serif","fontFamilySlug":"verdana","fontSize":"18","fontSizeUnit":"px","fontWeight":"normal","lineHeight":"1.2","lineHeightUnit":"em","textTransform":"none","letterSpacing":"0","letterSpacingUnit":"px","fontType":"web","fontFallback":"sans-serif"}},"captionMarginSize":{"mobile":{"top":"","right":"","bottom":"","left":"","topUnit":null,"rightUnit":null,"bottomUnit":null,"leftUnit":null,"unitSync":true},"tablet":{"top":"","right":"","bottom":"","left":"","topUnit":null,"rightUnit":null,"bottomUnit":null,"leftUnit":null,"unitSync":true},"desktop":{"top":"8","right":"0","bottom":"0","left":"0","topUnit":"px","rightUnit":"px","bottomUnit":"px","leftUnit":"px","unitSync":false}},"containerWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"","unit":""}}} /-->
+<!-- /wp:dlxplugins/photo-block -->
 
 Navigate to the admin settings and locate the GitHub Info Cards section.
 
-{% content-ref url="../../getting-started/finding-the-admin-settings.md" %}
-[finding-the-admin-settings.md](../../getting-started/finding-the-admin-settings.md)
-{% endcontent-ref %}
-
 ### Enable GitHub Info Cards and Add a GitHub Personal Access token.
 
-<figure><img src="../../.gitbook/assets/dlx-admin-github-add-personal-token-blank.jpg" alt=""><figcaption></figcaption></figure>
+<!-- wp:dlxplugins/photo-block {"uniqueId":"photo-block-33a73b87","globalStyle":"dlxkb-image","imageData":{"id":42470,"url":"https://docs.dlxplugins.com/wp-content/uploads/2026/05/dlx-admin-github-add-personal-token-blank-1024x577.jpg","alt":"Enabling the GitHub Personal Access Token","full":"https://docs.dlxplugins.com/wp-content/uploads/2026/05/dlx-admin-github-add-personal-token-blank.jpg","width":1024,"height":577,"title":"","caption":"","attachment_link":"https://docs.dlxplugins.com/product/wp-plugin-info-card/enabling-github-info-cards/screenshot-39/","file_size":"55.6 KB","dimensions":{"width":1024,"height":577},"edit_nonce":"5514e43656","crop_nonce":"ffec13ff00","can_edit":true},"photoDropShadow":{"color":"#3F3F37","opacity":0.85,"blur":10,"spread":2,"horizontal":2,"vertical":2,"inset":false,"enabled":true},"containerWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"","unit":""}},"containerMaxWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"800","unit":"px"}},"photoMode":"photo","mediaLinkType":"image","hasCaption":true,"lightboxEnabled":true} -->
+<!-- wp:dlxplugins/photo-caption-block {"globalStyle":"dlxkb-image","uniqueId":"photo-block-33a73b87","captionManual":"Enabling the GitHub Personal Access Token","captionTypography":{"mobile":{"fontFamily":"","fontFamilySlug":"","fontSize":"","fontSizeUnit":"px","fontWeight":"","lineHeight":"","lineHeightUnit":"em","textTransform":"","letterSpacing":"","letterSpacingUnit":"px","fontFallback":"","fontType":"web"},"tablet":{"fontFamily":"","fontFamilySlug":"","fontSize":"","fontSizeUnit":"px","fontWeight":"","lineHeight":"","lineHeightUnit":"em","textTransform":"","letterSpacing":"","letterSpacingUnit":"px","fontFallback":"","fontType":"web"},"desktop":{"fontFamily":"Verdana, sans-serif","fontFamilySlug":"verdana","fontSize":"18","fontSizeUnit":"px","fontWeight":"normal","lineHeight":"1.2","lineHeightUnit":"em","textTransform":"none","letterSpacing":"0","letterSpacingUnit":"px","fontType":"web","fontFallback":"sans-serif"}},"captionMarginSize":{"mobile":{"top":"","right":"","bottom":"","left":"","topUnit":null,"rightUnit":null,"bottomUnit":null,"leftUnit":null,"unitSync":true},"tablet":{"top":"","right":"","bottom":"","left":"","topUnit":null,"rightUnit":null,"bottomUnit":null,"leftUnit":null,"unitSync":true},"desktop":{"top":"8","right":"0","bottom":"0","left":"0","topUnit":"px","rightUnit":"px","bottomUnit":"px","leftUnit":"px","unitSync":false}},"containerWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"","unit":""}}} /-->
+<!-- /wp:dlxplugins/photo-block -->
 
 When prompted, enter your GitHub Personal Access Token. Here's an article on how to [retrieve a non-expiring GitHub personal access token](https://dlxplugins.com/how-tos/how-to-create-a-non-expiring-github-personal-access-token/).
 
 If successful, you will be shown your current rate limit.
 
-<figure><img src="../../.gitbook/assets/dlx-admin-github-rate-limits-shown.jpg" alt=""><figcaption></figcaption></figure>
+<!-- wp:dlxplugins/photo-block {"uniqueId":"photo-block-5f8d82cb","globalStyle":"dlxkb-image","imageData":{"id":42471,"url":"https://docs.dlxplugins.com/wp-content/uploads/2026/05/dlx-admin-github-rate-limits-shown-1024x576.jpg","alt":"GitHub Token Statistics","full":"https://docs.dlxplugins.com/wp-content/uploads/2026/05/dlx-admin-github-rate-limits-shown.jpg","width":1024,"height":576,"title":"","caption":"","attachment_link":"https://docs.dlxplugins.com/product/wp-plugin-info-card/enabling-github-info-cards/screenshot-40/","file_size":"53.5 KB","dimensions":{"width":1024,"height":576},"edit_nonce":"3ba30910c4","crop_nonce":"f5f56836d6","can_edit":true},"photoDropShadow":{"color":"#3F3F37","opacity":0.85,"blur":10,"spread":2,"horizontal":2,"vertical":2,"inset":false,"enabled":true},"containerWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"","unit":""}},"containerMaxWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"800","unit":"px"}},"photoMode":"photo","mediaLinkType":"image","hasCaption":true,"lightboxEnabled":true} -->
+<!-- wp:dlxplugins/photo-caption-block {"globalStyle":"dlxkb-image","uniqueId":"photo-block-5f8d82cb","captionManual":"GitHub Token Statistics","captionTypography":{"mobile":{"fontFamily":"","fontFamilySlug":"","fontSize":"","fontSizeUnit":"px","fontWeight":"","lineHeight":"","lineHeightUnit":"em","textTransform":"","letterSpacing":"","letterSpacingUnit":"px","fontFallback":"","fontType":"web"},"tablet":{"fontFamily":"","fontFamilySlug":"","fontSize":"","fontSizeUnit":"px","fontWeight":"","lineHeight":"","lineHeightUnit":"em","textTransform":"","letterSpacing":"","letterSpacingUnit":"px","fontFallback":"","fontType":"web"},"desktop":{"fontFamily":"Verdana, sans-serif","fontFamilySlug":"verdana","fontSize":"18","fontSizeUnit":"px","fontWeight":"normal","lineHeight":"1.2","lineHeightUnit":"em","textTransform":"none","letterSpacing":"0","letterSpacingUnit":"px","fontType":"web","fontFallback":"sans-serif"}},"captionMarginSize":{"mobile":{"top":"","right":"","bottom":"","left":"","topUnit":null,"rightUnit":null,"bottomUnit":null,"leftUnit":null,"unitSync":true},"tablet":{"top":"","right":"","bottom":"","left":"","topUnit":null,"rightUnit":null,"bottomUnit":null,"leftUnit":null,"unitSync":true},"desktop":{"top":"8","right":"0","bottom":"0","left":"0","topUnit":"px","rightUnit":"px","bottomUnit":"px","leftUnit":"px","unitSync":false}},"containerWidth":{"mobile":{"width":"","unit":null},"tablet":{"width":"","unit":null},"desktop":{"width":"","unit":""}}} /-->
+<!-- /wp:dlxplugins/photo-block -->
 
-You'll now be able to use the GitHub Info Cards block and shortcode.
-
-{% content-ref url="../../shortcodes/github-info-card.md" %}
-[github-info-card.md](../../shortcodes/github-info-card.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../blocks/the-github-info-cards-block.md" %}
-[the-github-info-cards-block.md](../../blocks/the-github-info-cards-block.md)
-{% endcontent-ref %}
+You'll now be able to use the GitHub Info Cards [block](https://docs.dlxplugins.com/product/wp-plugin-info-card/the-github-info-cards-block) and [shortcode](https://docs.dlxplugins.com/product/wp-plugin-info-card/github-info-card/).
